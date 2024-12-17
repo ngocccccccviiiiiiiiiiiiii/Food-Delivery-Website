@@ -18,8 +18,7 @@ nguyễn ngọc vi
 - **PORT:** Theo Port(s) của MySQL trong phầm mềm xampp, thường là 3306
 
  Mở browser lên nhập **localhost/DoAnCNTT** để chạy đồ án. Chúc bạn thành công
-- **Lưu ý:** 
-  - username: hoang, pass: 123 -> để đăng nhập trang admin quản trị
-  - username: huy, pass: 123 -> để đăng nhập với quyền là user
+
+ 
 
 
